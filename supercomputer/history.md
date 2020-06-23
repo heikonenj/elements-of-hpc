@@ -1,4 +1,4 @@
-Brief history of supercomputing
+## Brief history of supercomputing
 
 ENIAC, which became operational in 1945, was the first electronic programmable general purpose computer. Originally located at the University of Pennsylvania it contributed to the US World War II effort. ENIAC relied on vacuum tubes and its performance was on the order of one thousand times greater than the preceding electro-mechanical computers.
 
@@ -8,7 +8,7 @@ The term supercomputing was first used in 1964 when Control Data Corporation int
 
 More stuff here ...
 
-Supercomputing in Finland and at CSC
+## Supercomputing in Finland and at CSC
 
 - Univac 1108-II 1971-1982
 - Cray XMP 1989 
