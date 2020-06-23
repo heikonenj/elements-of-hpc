@@ -9,3 +9,12 @@ The term supercomputing was first used in 1964 when Control Data Corporation int
 More stuff here ...
 
 Supercomputing in Finland and at CSC
+
+Univac 1108-II 1971-1982
+Cray XMP 1989 
+IBM, SGI and Cray systems
+Cray T3E 1996-2002
+IBM p690 2002-2005
+Cray XT4/XT5 2007-2012
+Cray XC40 2012-2019
+Bull XH2000 2020 2020-
